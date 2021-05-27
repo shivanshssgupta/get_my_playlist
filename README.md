@@ -1,16 +1,28 @@
-# get_my_playlist
+# Get my Playlist
 
-A new Flutter application.
+Get My Playlist is an Android app that takes several songs as input from users and returns some playlists. The playlist will include song titles, artist names, cover art, and song links (if copyrights are granted) so that users can listen to those songs.
 
-## Getting Started
+# Features
 
-This project is a starting point for a Flutter application.
+- Beautiful and user-friendly UI
+- Over 60k songs are included in this data set
+- Finding songs quickly and easily
+- Generate a playlist that is unique to you
+- Login/Sign Up feature to join our community
 
-A few resources to get you started if this is your first Flutter project:
+# Tech Stack
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+| Target | Stack |
+| ------ | ------ |
+| Front end | Flutter |
+| API Creation | Flask |
+| Backend | mongoDB |
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Snapshots
+
+<img src="Snapshots/1.jpeg" height="400">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Snapshots/2.jpeg" height="400" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Snapshots/3.jpeg" height="400" ><br /><img src="Snapshots/4.jpeg" height="400" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Snapshots/5.jpeg" height="400" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+# Demo
+
+https://user-images.githubusercontent.com/62962186/119789689-e9ddfc80-bef0-11eb-9785-12d2ef7a45b8.mp4
+
